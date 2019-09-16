@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "complejos.cpp", "complejos.cpp\complejos.cpp.vcxproj", "{1BB70511-958B-42A1-B529-5F7DA286FAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Debug|x64.ActiveCfg = Debug|x64
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Debug|x64.Build.0 = Debug|x64
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Debug|x86.Build.0 = Debug|Win32
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Release|x64.ActiveCfg = Release|x64
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Release|x64.Build.0 = Release|x64
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Release|x86.ActiveCfg = Release|Win32
+		{1BB70511-958B-42A1-B529-5F7DA286FAFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1AECDCC-4250-45BA-859A-DA6E6B358FA4}
+	EndGlobalSection
+EndGlobal

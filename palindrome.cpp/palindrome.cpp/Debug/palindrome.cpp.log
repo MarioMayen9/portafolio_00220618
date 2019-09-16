@@ -1,0 +1,3 @@
+﻿  palindrome.cpp.cpp
+c:\users\mario_31gukut\source\repos\palindrome.cpp\palindrome.cpp\palindrome.cpp.cpp(16): warning C4715: 'palindrome': not all control paths return a value
+  palindrome.cpp.vcxproj -> c:\users\mario_31gukut\source\repos\palindrome.cpp\Debug\palindrome.cpp.exe
