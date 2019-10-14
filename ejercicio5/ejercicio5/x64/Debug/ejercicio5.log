@@ -1,0 +1,4 @@
+﻿  ejercicio5.cpp
+c:\users\mario_31gukut\source\repos\ejercicio5\ejercicio5\ejercicio5.cpp(119): warning C4101: 'datoRef': unreferenced local variable
+c:\users\mario_31gukut\source\repos\ejercicio5\ejercicio5\ejercicio5.cpp(119): warning C4101: 'datoBuscar': unreferenced local variable
+  ejercicio5.vcxproj -> c:\users\mario_31gukut\source\repos\ejercicio5\x64\Debug\ejercicio5.exe

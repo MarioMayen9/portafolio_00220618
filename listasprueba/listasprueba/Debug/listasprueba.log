@@ -1,0 +1,2 @@
+﻿  listasprueba.cpp
+c:\users\mario_31gukut\source\repos\actividades\listasprueba\listasprueba\listasprueba.cpp(143): error C4703: potentially uninitialized local pointer variable 'ant' used
