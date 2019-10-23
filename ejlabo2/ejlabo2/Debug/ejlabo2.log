@@ -1,0 +1,3 @@
+﻿  ejlabo2.cpp
+c:\users\mario_31gukut\source\repos\ejlabo2\ejlabo2\ejlabo2.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ejlabo2.vcxproj -> C:\Users\mario_31gukut\source\repos\ejlabo2\Debug\ejlabo2.exe
